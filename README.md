@@ -5,6 +5,9 @@
 - Fetching data from unlimited sources using RapidAPI
 
 
+### `Live Demo`
+https://fitnesslaus.netlify.app/
+
 ### `npm start`
 
 Runs the app in the development mode.\
